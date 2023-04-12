@@ -3,7 +3,7 @@
 
 err = 0, warn = 7, info = 0
 IG Publisher Version: 1.3.4
-Generated Wed Apr 12 00:19:15 CEST 2023. FHIR version 4.0.1 for fish#0.1.0 (canonical = http://example.org/fhir/fish)
+Generated Wed Apr 12 07:47:33 CEST 2023. FHIR version 4.0.1 for fish#0.1.0 (canonical = http://example.org/fhir/fish)
  Build Errors : 40 / 5 / 0
  /Users/egence/Documents/GitHub/fhir-fsh-example/fsh-generated/resources/ImplementationGuide-fish : 0 / 0 / 1
  /Users/egence/Documents/GitHub/fhir-fsh-example/fsh-generated/resources/Patient-Shorty : 0 / 0 / 1
